@@ -11,4 +11,8 @@ body {
     background-size: cover;
   }
 
-*/
+  
+  .navbar-nav > li >a
+  {
+    color: whitesmoke;
+  }
